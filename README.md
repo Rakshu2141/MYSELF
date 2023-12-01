@@ -3,6 +3,7 @@
 Welcome to my data adventure! I'm Shree Raksha Sivasubramani, and I'm thrilled to have fellow explorers like you join me in the vast and fascinating Data Galaxy. Whether you're a coding comrade, a data enthusiast, or just curious about the stories that data can tell, your presence here is truly appreciated.
 
 **👩🏾‍💻 Who Am I?**
+
 I'm currently a Master's student in Data Analytics at Clark University, weaving insights from data with a solid foundation from PSG College of Technology. Beyond the data realm, you can find me enjoying a game of football or expressing my creativity through drawing.
 
 **📈 What You'll Find Here:**
