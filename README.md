@@ -27,15 +27,20 @@ I'm currently pursuing my Master's at Clark University, boasting a stellar 3.9 G
 **🧰 Tech Toolbox:**
 
 Languages: Python, R, SQL, Java
+
 Statistical Skills: Descriptive Stats, Hypothesis Testing, Regression
+
 Learning Concepts: Machine Learning, Deep Learning, Business Intelligence
+
 Tools: Tableau, Microsoft SQL Server, Oracle DBMS, and more
+
 Certifications: Docker, Augmented Reality, Front-End Web Development
 
 **📱 Let's Connect:**
 
-Explore my Tableau visualizations: Tableau Profile
-Connect with me on LinkedIn: LinkedIn Profile
+Explore my Tableau visualizations: https://public.tableau.com/app/profile/shree.raksha.sivasubramani/vizzes
+
+Connect with me on LinkedIn: linkedin.com/in/rakshasivasubramani
 
 Feel free to dive into the code, raise issues, or connect with me for discussions. Together, let's unravel the potential of data and create something remarkable! 🚀📊
 
